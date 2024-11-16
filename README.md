@@ -13,6 +13,7 @@ Se trata de un clasificador de números escritos, en donde puedes dibujar en el 
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/) &nbsp;
 [![HTML](https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/) &nbsp;
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/?hl=es-419) &nbsp;
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)](https://getbootstrap.com/) &nbsp;
 
 </div>
 
@@ -21,9 +22,8 @@ Se trata de un clasificador de números escritos, en donde puedes dibujar en el 
 Este proyecto utiliza un modelo de **Tensorflow.js**, el cual para cargarse requiere que el acceso sea por medio de **http/https**. Para eso puedes usar cualquier servidor, pero aquí hay una forma de hacerlo:
 
 - Descarga o clona el repositorio.
-```bash
-git clone https://github.com/carloscantero11/crud-django-react.git
-cd crud-django-react
+```py
+git clone https://github.com/carloscantero11/IA_Numeros_Escritos.git
 ```
 - Descarga **Python versión 3.6 a 3.9** en tu computadora. 
 - Abre una línea de comandos o terminal.
@@ -31,9 +31,14 @@ cd crud-django-react
 - Ejecuta el comando `python -m http.server 8000`
 - Abre un explorador y ve a **http://localhost:8000**.
 
-## 🖼️ Imagenes de la App
+## 🖼️ Imagenes
+<br/>
 
+<div align="center">
+<img src="https://github.com/user-attachments/assets/f8a087b1-749e-4054-b471-0c961201cf6e"  width="730"  height="530"/> 
+</div>
 
+<br/>
 
 ## 👉 Uso
 
